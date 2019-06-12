@@ -1,2 +1,2 @@
-# projetoPhp
-projeto atrasado de sala de aula 
+# projeto-php
+Versionando meus projetos PHP.
