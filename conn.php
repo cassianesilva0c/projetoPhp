@@ -2,7 +2,7 @@
 
 $conn = new mysqli
 ('localhost',
-'admin',
-'root',
+'aluno',
+'aluno',
 'Festival');
 
